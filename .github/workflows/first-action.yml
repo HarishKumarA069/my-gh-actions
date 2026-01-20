@@ -10,3 +10,7 @@ jobs:
         run: echo "Hi Harish"
       - name: Print Sush
         run: echo "Hi Sush"
+      - name: Print Both  
+        run: |
+            echo "First output"
+            echo "Second output"
